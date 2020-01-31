@@ -1,0 +1,36 @@
+ebook_metadata:
+  title: ༄༅། །ཕྱོགས་མེད་རིས་མེད་ཀྱི་བསྟན་པ་ལ་འདུན་ཞིང་དགེ་སྦྱོང་གི་གཟུགས་བརྙན་འཆང་བ་བློ་གྲོས་མཐའ་ཡས་པའི་སྡེའི་བྱུང་བ་བརྗོད་པ་ནོར་བུ་སྣ་ཚོགས་མདོག་ཅན་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  authors:
+  - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
+  sku: SHE-RTD-007
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+web_metadata:
+  title:
+    en: A Gem of Many Colors:The Autobiography of Jamgon Kongtrul Lodro Thaye
+    bo: ཕྱོགས་མེད་རིས་མེད་ཀྱི་བསྟན་པ་ལ་འདུན་ཞིང་དགེ་སྦྱོང་གི་གཟུགས་བརྙན་འཆང་བ་བློ་གྲོས་མཐའ་ཡས་པའི་སྡེའི་བྱུང་བ་བརྗོད་པ་ནོར་བུ་སྣ་ཚོགས་མདོག་ཅན་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Treasury of Precious Termas–  Book 7
+    bo: རིན་ཆེན་གཏེར་མཛོད།–  དེབ། ༧
+  author:
+    en: Jamgon Kongtrul Lodro Thaye
+    bo: འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-RTD-007
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-RTD-007.epub
+  description:
+    en: ''
+    bo: ''
