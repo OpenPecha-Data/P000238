@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000238
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཕྱོགས་མེད་རིས་མེད་ཀྱི་བསྟན་པ་ལ་འདུན་ཞིང་དགེ་སྦྱོང་གི་གཟུགས་བརྙན་འཆང་བ་བློ་གྲོས་མཐའ་ཡས་པའི་སྡེའི་བྱུང་བ་བརྗོད་པ་ནོར་བུ་སྣ་ཚོགས་མདོག་ཅན་ཞེས་བྱ་བ་བཞུགས་སོ།།
   authors:
   - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
-  sku: SHE-RTD-007
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
+  id: SHE-RTD-007
 web_metadata:
   title:
     en: A Gem of Many Colors:The Autobiography of Jamgon Kongtrul Lodro Thaye
